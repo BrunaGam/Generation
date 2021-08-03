@@ -1,0 +1,1 @@
+Este repositório é de uso exclusivo para o desenvolvimento das atividades da Generation.
